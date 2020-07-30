@@ -4,6 +4,9 @@
 __How it works?__
   Start from one of the 100 seeding papers, and discuss its surrounding literature at a Github issue post. The discussion  would focus on its contribuions, caveats, related ideas and followed work. Discussions under an related topic can be managed by a milestone, and inactive ones/issues might be closed. The discussion of each paper may also highlight its relations with state-of-the-art approaches today.
 
+## Author:
+
+Sourangshu Ghosh
 
 ## Mathematics and Statistics
 Tanner, Martin A., and Wing Hung Wong. "The calculation of posterior distributions by data augmentation." Journal of the American statistical Association 82.398 (1987): 528-540.
